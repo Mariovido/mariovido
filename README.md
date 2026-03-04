@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="./profile/stats.svg" alt="Mario's GitHub stats" style="margin-right: 20px;" />
-  <img src="./profile/top-langs.svg" alt="Top Langs" />
 </p>
 
 ## Contact

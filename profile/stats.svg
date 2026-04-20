@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mario Vidal Dom&#237;nguez's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 54, Total PRs: 120, Total PRs Merged: 109, Total PRs Reviewed: 30</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 54, Total PRs: 120, Total PRs Merged: 109, Total PRs Reviewed: 29</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 164.11213290911397;
+        stroke-dashoffset: 164.1123976573001;
       }
     }
   
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >30</text>
+      >29</text>
     </g>
   </g>
     </svg>

@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mario Vidal Dom&#237;nguez's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 21, Total PRs: 120, Total PRs Merged: 109, Total PRs Reviewed: 10</desc>
+        <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 19, Total PRs: 121, Total PRs Merged: 110, Total PRs Reviewed: 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 168.22128599233517;
+        stroke-dashoffset: 169.47384384096105;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >21</text>
+      >19</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >120</text>
+      >121</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >109</text>
+      >110</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >10</text>
+      >7</text>
     </g>
   </g>
     </svg>
